@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic Research Assistant
 
 > A Multi-Agent LLM-RAG Framework for Autonomous Scientific Literature Mining, Research Gap Discovery, and Evidence-Grounded Knowledge Synthesis
@@ -230,3 +231,6 @@ agentic-research-assistant/
 ## License
 
 MIT — built as a final-year major project showcase.
+=======
+# agentic-research-assistant
+>>>>>>> 8b575deefc495d1c823db822b42ff2a4a72bed4c
