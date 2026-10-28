@@ -1,0 +1,4 @@
+[OK] Config (no OpenAI fields)
+[OK] LLMClient (no OpenAI)
+[OK] FAISS DIM = 384
+[OK] Health router (checks Ollama)
